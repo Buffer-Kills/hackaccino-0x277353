@@ -5,4 +5,4 @@ pre-requisites-
 |
 
 
-Download the ufvs.zip file and after extract it under your XAMPP htdocs folder.
+Download the ufvs.zip file and extract it under your XAMPP htdocs folder.
